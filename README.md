@@ -6,6 +6,6 @@
 
 |  ID  |                Title                |                       C/C++                       |                备注                |
 | :--: | :---------------------------------: | :-----------------------------------------------: | :--------------------------------: |
-| 1001 |           A+B Format (20)           | [查看题解](http://www.mli1997.net/archives/1888)   |             字符串处理             |
+| 1001 |           A+B Format (20)           | [查看题解](https://mli1997.github.io/2018/09/27/)   |             字符串处理             |
 | 1002 |      A+B for Polynomials (25)       | [查看题解](http://www.mli1997.net/archives/1890)   |                模拟                |
 | 1003 |           Emergency (25)            | [查看题解](http://www.mli1997.net/archives/2359)   |              Dijkstra算法          |
